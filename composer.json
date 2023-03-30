@@ -1,0 +1,22 @@
+{
+    "name": "marcellus-ku-283/tallstack-installer",
+    "description": "This package will install ready to use TALL Stack based admin panel for you from laravel",
+    "require": {
+        "php": "^8.1",
+        "symfony/console": "6.3.x-dev",
+        "symfony/process": "6.3.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MarcellusKu283\\TallstackInstaller\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Parth Gajjar",
+            "email": "gajjar.parth1811@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
